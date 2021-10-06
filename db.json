@@ -1,3 +1,10 @@
-{
-"db":"a"
+[
+  {
+    "id":1,
+    "name": "aadhil"
+  },
+  {
+    "id":2,
+    "name": "mohammed"
+  }
 }
